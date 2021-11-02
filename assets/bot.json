@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "portalchatbot",
+  "private_key_id": "24fa925a9ef506acc3d49be9bb9699e1880b1f62",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCr/4edJe9cwH2/\nZaQnCBGqivDGbsP0f08nY0xFjx4AOA54TDEmhX2tXk5gtDIPPj0xeDSa1OOubxKm\nQJAFT8Yp1epyQ5MWdhvMTtkU0ru3FdeLh+w06WS2ef+8dYdoE6hdpc7jHE61Ee3P\nUvyupu18AVscumuxlBDiB4VfKoEQyk5DvIeEAfzGcuWJg3VBkGs+z9BcEQf0ks9k\nxFoqyg+kwEZkfh42h7RcoKUM2X3g4wWdrnMey9YOGFp/6LgB55EGcr6DuwUWfv2x\nzHaAIX98Ca49YDaSwZLAWB66TflY0SLDbWogh8QmDNOVHyMhLu8KpQovE4+BWmUf\nh88oXzoPAgMBAAECggEANRdXv5DVnW5Hgnx32pp5hYiEwOOw9fgUMUbL5M7EBnJH\nOSffphHflNO+4sfMifr+vZXquv5K122utoXITvNsaj5/M00binvjocGW7YAM9Hs4\nAPhwV3bRoSfwYjZvGRe0SU/kmCMFQowpuWzW1XxuYvAyNSBwHKzlNzf2GcWPeGRQ\nNbgYUJIPt0bkAjRKvSgSHznlcd+kO+yhdRdnt43bUxuVMCCHqQgjJ+g6oegWDpvU\n5UcT5VPGomCp2bA3GcaQ6VnL74EHMEHGDXRFqxhqVwXgZbZbl8ZhhwQ4ZZp/1mVG\nIdQRlZ6lBrWcJmy3tRTcQK/rMcnGTGsVuU4+J7ktvQKBgQDh53fczdLo9uZcH0D7\nRzoE/urhMSoK7o9o3go/7SPF/f+RC7PpgdEWoX98zrGUJr598ck4RrlCHc87rIJp\npf3hayRgHXYJaUQ7pDfcpCqS8SCybfaQb62HObUGjVEoFAZmKIoiJLED24fGHgqo\ny4ptCHE05ddq4dWVRHAp4LhDFQKBgQDC6ZSTN0iEJjoBRhAspsYmenXcbCSYylkB\nWtKq+WBFMoUMy4psEEEZ9mMTUp2tzEQItGF8KbTYKJu6XH6TBiY0gh7XDx9r2FhI\nt1CkrKdQRPoc5r6xDNM/qjm89Lgo33A3ebK2lY28zNsh2gEOs6kVq53C8/el3s6O\nT87RXP8hkwKBgAG3co+4+KtQhPuaOTIvnl8/WKWRbBJdMbXISiemM6ljfrepcRqL\nI/2aCI/4Oh04FiZ62d6Vmv7HnzWC4BLRchZua/5W+vijViNl4g7JKJGpR2hTsZXz\nY0wtwhRkqoM1c77++926jaXL20JEJCyYL1sYv1N5k6N6R9c0h+2piXzpAoGAFNGO\nJQtKm5LZrzkkkSBfGc0KubhzUD6MszBYQBrSxZFX1L4I0vIJghRnELFKVj3zJlrd\n7r0lq9DqkUU/38RQYFtln+LloEdDZsDtxCkM1e4IKP4ccBzGk45DDIO3B+aVvdcp\n14ax1PCslzkJ0+AstzvVZfVZBkZ+GYU8ufAM8DECgYEAoGUhAw7S6Grr4kIX4D0H\nKZ35Sdkv/tqnzg3Qq9OiPSodLX6ytVf3PK0//Lvy6rTwj9x92uBRgR5bxDezZ80p\nWRitCh1eEjMIc+Z/zcK7uiKBZdVp9nHEof0C3vWLwvE8p4ZBMiv3gp9CJt+keOWw\nzhy3gwYg2o2GNDUVLhhvHb8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "portalbot@portalchatbot.iam.gserviceaccount.com",
+  "client_id": "116982231758130974501",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/portalbot%40portalchatbot.iam.gserviceaccount.com"
+}
