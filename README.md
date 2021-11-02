@@ -1,10 +1,10 @@
-# flutter_app_1
+# MAINTENANCE PORTAL APP
 
-A new Flutter project.
+Development Technology Stack to be used: FLUTTER, DART & FIREBASE.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Maintenance Portal needs to be designed and developed to provide easy and anywhere access through our mobile phone which has the below functionalities. The maintenance portal will be accessed by the maintenance department or maintenance engineer belonging to the organization (plant). The need of maintenance portal is to access and view the complete maintenance related activities of the organization (plant).
 
 A few resources to get you started if this is your first Flutter project:
 
